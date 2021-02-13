@@ -1,0 +1,16 @@
+body {
+  font-family: 'Ubuntu';
+}
+
+.tr-header {
+  /* background-color: cadetblue; */
+}
+
+.tr-body {
+  background-color: aqua;
+}
+
+.form input {
+  display: flex;
+  margin: 1px 0 10px 0;
+}
