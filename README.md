@@ -1,4 +1,4 @@
 ## LexL
 
 * abm_stock -> engenharia de software
-* algoritmos -> algoritmos e estrutura de dados
+* algorythms -> algoritmos e estrutura de dados
